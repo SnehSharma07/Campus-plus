@@ -12,7 +12,6 @@ const loadFonts = () => {
   document.head.appendChild(link);
 };
 loadFonts();
-
 export default function App() {
   const { user, loading } = useAuth();
 
