@@ -346,7 +346,7 @@ Or open an issue on GitHub.
 
 ## 👥 Team
 
-- **Developer**: Nishant
+- **Developer**: Ujjwal
 - **Repository**: [GitHub - Campus Plus](https://github.com/lightningninja-01/Campus-plus--Integrated-Campus-Management-And-Academic-Operations-System)
 
 ---
